@@ -1,6 +1,6 @@
 /*
    PLANT KEEPER V1.0
-   by Emilostuff – Emil Skydsgaard, 2020
+   
 
    Software is published for illustrative/learning purposes only.
    Feel free to reuse and modify for your own project.
