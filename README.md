@@ -16,18 +16,23 @@ Reload button event          V2
 V3, amount[plantSelect]      V3 V31
 V4, interval[plantSelect     V4 V32
 V5, thresh[plantSelect       V5 V33
-
+--------liber------          V6
 System on-off button event   V7
 Manual water button event    V8
 V9, minInterval[plantSelect  V9 V35
-
+-------liber-------          V10
 STATUS DISPLAY FUNCTIONS     V11, V12,V13,V14
-
+-----???-------              V15
+-----???-------              V16
+tempDS18                     V17
 UP button                    V18
 DOWN button                  V19
-
 Slider timer                 V20
-
+Sensori viitor               V21
+Sensori viitor               V22
+Sensori viitor               V23
+Sensori viitor               V24
+------Liber---------         V25-V29
 
 Mode select event            V30
                              V31
