@@ -9,7 +9,7 @@
 
    Libraries needed:
    - BLYNK: http://help.blynk.cc/en/articles/512105-how-to-install-blynk-library-for-arduino-ide
-   - Time: https://github.com/PaulStoffregen/Time
+   - Time: https://github.com/PaulStoffregen/Time 
    - ADS1115_WE: Found in the builtin library manbager
 
    And you need to have installed support for esp8266 boards
@@ -47,7 +47,7 @@
 #include <Wire.h>
 #include <OneWire.h>
 #include <DallasTemperature.h> // import DallasTemperature
-#include <TimeLib.h>   // first import Time library by Paul Stoffregen
+#include <TimeLib.h>   // first import Time library by install "Time by Michael Margolis".
 #include <WidgetRTC.h>
 #include <SPI.h>
 #include <DHT.h>  // DHT sensor library by Adafruit
@@ -329,7 +329,7 @@ BLYNK_READ(V14)
 
 
 
-//V3 -------------------======= V3 =======--------------------
+//Ver3 -------------------======= V3 =======--------------------
 
 // This function will be called every time Slider Widget
 // in Blynk app writes values to the Virtual Pin 20
